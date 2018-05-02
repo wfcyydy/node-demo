@@ -1,3 +1,4 @@
 # node-demo
-a demo of node project \n
+a demo of node project
+
 the author is nds
